@@ -6,7 +6,7 @@ Comex Stat (MDIC)
 
 Produto analisado:
 NCM 09011110
-(Café não torrado, não descafeinado, em grão)
+- Café não torrado, não descafeinado, em grão
 
 Período:
 2016 a 2025
