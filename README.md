@@ -5,8 +5,8 @@ Fonte dos dados:
 Comex Stat (MDIC)
 
 Produto analisado:
-NCM 09011110
-- Café não torrado, não descafeinado, em grão
+Café não torrado, não descafeinado, em grão
+(NCM 09011110)
 
 Período:
 2016 a 2025
