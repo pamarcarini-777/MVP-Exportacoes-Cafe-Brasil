@@ -2,7 +2,7 @@
 MVP da disciplina Análise de Dados e Boas Práticas.
 
 Fonte dos dados:
-Comex Stat (MDIC)
+Comex Stat (MDIC) - https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
 
 Produto analisado:
 Café não torrado, não descafeinado, em grão
